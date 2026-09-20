@@ -1,0 +1,16 @@
+# Deploy archives
+*.zip
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+*.tmp
+
+# Temporary root screenshots
+screenshot_*.png
+
+# OS metadata
+.DS_Store
+Thumbs.db

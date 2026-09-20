@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Universal Testing Machine (UTM)",
+    "sub": "Computerised & Electronic UTM",
+    "range": "Up to 2000 kN (Tension & Compression)",
+    "category": "Mechanical",
+    "image": "assets/images/equipment/351628842computerized-universal-testing-machine.jpg",
+    "method": "Calibrated with Master Class-1 Proving Rings & Precision Load Cells"
+  },
+  {
+    "name": "Rockwell & Superficial Hardness Testers",
+    "sub": "Digital & Analog Hardness Testers",
+    "range": "HRA, HRB, HRC, HR15N, HR30N, HR45N",
+    "category": "Mechanical",
+    "image": "assets/images/equipment/1998576295rockwell-cum-rockwell-superficial-hardness-testers.jpg",
+    "method": "Direct & Indirect verification using certified Standard Hardness Blocks & Indenters"
+  },
+  {
+    "name": "Brinell & Optical Brinell Hardness Testers",
+    "sub": "Optical Measuring Microscope Brinell",
+    "range": "HBW 2.5/62.5 to HBW 10/3000",
+    "category": "Mechanical",
+    "image": "assets/images/equipment/Optical-Brinell-Hardness-Testing-Machine.jpg",
+    "method": "Force verification and optical impression diameter measurement calibration"
+  },
+  {
+    "name": "Vickers Hardness Testing Machines",
+    "sub": "Micro & Macro Vickers",
+    "range": "HV 0.1 to HV 100",
+    "category": "Mechanical",
+    "image": "assets/images/equipment/vickers-cum-brinell-hardness-testing.jpg",
+    "method": "Precision optical diagonal measuring systems and load accuracy verification"
+  },
+  {
+    "name": "Digital & Industrial Pressure Gauges",
+    "sub": "Dial Gauges, Transducers & Transmitters",
+    "range": "-1 bar to 1400 bar (Hydraulic & Pneumatic)",
+    "category": "Pressure",
+    "image": "assets/images/equipment/thumb-lg-wika-pressure-gauge.jpg",
+    "method": "Comparison with Dead Weight Testers & Master Digital Pressure Indicators"
+  },
+  {
+    "name": "Load Cells & Proving Rings",
+    "sub": "Tension & Compression Reference Devices",
+    "range": "1 kN to 2000 kN",
+    "category": "Force",
+    "image": "assets/images/equipment/load-cell-calibration.jpg",
+    "method": "Secondary reference verification traceable to National Standards (NPL)"
+  },
+  {
+    "name": "Barometers & Manometers",
+    "sub": "Aneroid & Digital Barometers",
+    "range": "600 hPa to 1100 hPa",
+    "category": "Pressure",
+    "image": "assets/images/equipment/barometer-calibration-new.jpg",
+    "method": "High-accuracy digital reference barometer in controlled environmental chamber"
+  },
+  {
+    "name": "Lux Meters & Illuminance Sensors",
+    "sub": "Digital Light Intensity Meters",
+    "range": "0.1 Lux to 50,000 Lux",
+    "category": "Electro-Optics",
+    "image": "assets/images/equipment/lux-meter-calibration.jpg",
+    "method": "Calibrated against Standard Tungsten Halogen Illuminance Lamp"
+  },
+  {
+    "name": "Thermocouples & RTD Sensors",
+    "sub": "Industrial Temp Sensors & Gauges",
+    "range": "-80\u00b0C to +1200\u00b0C",
+    "category": "Thermal",
+    "image": "assets/images/equipment/thermocouple-rtd-sensor_orig.jpg",
+    "method": "Comparison with Standard Platinum Resistance Thermometer (SPRT) in high stability baths"
+  }
+]
